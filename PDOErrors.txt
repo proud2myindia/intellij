@@ -1,0 +1,16 @@
+PDOException: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+ in D:\xampp\htdocs\menzo_v\config\connect.php:28
+Stack trace:
+#0 D:\xampp\htdocs\menzo_v\config\connect.php(28): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 D:\xampp\htdocs\menzo_v\index.php(7): connect_pdo->__construct()
+#2 {main}PDOException: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+ in D:\xampp\htdocs\menzo_v\config\connect.php:28
+Stack trace:
+#0 D:\xampp\htdocs\menzo_v\config\connect.php(28): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 D:\xampp\htdocs\menzo_v\index.php(7): connect_pdo->__construct()
+#2 {main}PDOException: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+ in D:\xampp\htdocs\menzo_v\config\connect.php:28
+Stack trace:
+#0 D:\xampp\htdocs\menzo_v\config\connect.php(28): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 D:\xampp\htdocs\menzo_v\index.php(7): connect_pdo->__construct()
+#2 {main}
